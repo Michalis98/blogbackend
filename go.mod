@@ -1,5 +1,6 @@
 module github.com/Michalis98/blogbackend
 
+// +heroku goVersion go1.21.4
 go 1.21.4
 
 require (
